@@ -1,0 +1,3 @@
+# change the [index_name] as per required index_name in dump_command.sh file
+
+# then open terminal in current folder and run this comman -> ./dump_command.sh
