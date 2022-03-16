@@ -1,3 +1,5 @@
-# change the [index_name] as per required index_name in dump_command.sh file
+-> install elasticdump [sudo npm install elasticdump ./bin/elasticdump] [sudo npm install elasticdump -g elasticdump]
 
-# then open terminal in current folder and run this comman -> ./dump_command.sh
+-> Change the [index_name] as per required index_name in dump_command.sh file
+
+-> Then open terminal in current folder and run this comman -> ./dump_command.sh
